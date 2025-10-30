@@ -42,3 +42,10 @@ public/
 - Loading states and error handling
 - Layout toggle between grid and carousel views
 - Support for Arabic typography with custom fonts
+
+
+## Develpoment
+``` bash
+cp .env.example .env
+npm run dev
+```
